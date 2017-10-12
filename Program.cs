@@ -87,11 +87,47 @@ namespace Programming_Exercises_Elementary
             //        Console.WriteLine("Incorrect choice. Please try again.");
 
             // 7 - Write a program that prints a multiplication table for numbers up to 12.
-            const int lastNumber = 12;
-            for (var firstNumber = 1; firstNumber <= lastNumber ; firstNumber++)
-            {
+            //    var product = 0;
+            //    for (int firstFactor = 1; firstFactor <= 12; firstFactor++)
+            //    {
+            //        for (int secondFactor = 1; secondFactor <= 12 ; secondFactor++)
+            //        {
+            //            product = firstFactor * secondFactor;
+            //            Console.WriteLine(product);
+            //        }
+            //    }
 
-            }
+            ////Write a program that prints all prime numbers. (Note: if your programming language does not support arbitrary size numbers, printing all primes up to the largest number you can easily represent is fine too.)
+            //for (int i = 1; i < 100; i++)
+            //{
+            //    if (i%2 != 0 && i%i == 0 || i == 2)
+            //    {
+            //        Console.WriteLine(i);
+            //    }
+
+            //}
+
+            //Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. I counts only as one try if they input the same number multiple times consecutively.
+        //    Random random = new Random();
+        //    int secretNumber = random.Next(10);
+
+        //    Console.WriteLine("GAME: Guess the number");
+        //    Console.WriteLine(secretNumber);
+        //    var triesList = new List<int>();
+        //    while (true)
+        //    {
+        //        var input = Convert.ToInt16(Console.ReadLine());
+        //        triesList.Add(input);
+        //        if (input > secretNumber)
+        //            Console.WriteLine("The number is too large.");
+        //        else if (input < secretNumber)
+        //            Console.WriteLine("The number is too small.");
+        //        else
+        //            break;
+        //    }
+        //    Console.WriteLine("You've guessed the number!");
+        //    Console.WriteLine("You've tried {0} times",triesList.Distinct().Count());
+        //}
         }
     }
 
