@@ -1,0 +1,6 @@
+c:\users\alex\documents\visual studio 2017\Projects\Programming Exercises Elementary\Programming Exercises Elementary\bin\Debug\Programming Exercises Elementary.exe.config
+c:\users\alex\documents\visual studio 2017\Projects\Programming Exercises Elementary\Programming Exercises Elementary\bin\Debug\Programming Exercises Elementary.exe
+c:\users\alex\documents\visual studio 2017\Projects\Programming Exercises Elementary\Programming Exercises Elementary\bin\Debug\Programming Exercises Elementary.pdb
+c:\users\alex\documents\visual studio 2017\Projects\Programming Exercises Elementary\Programming Exercises Elementary\obj\Debug\Programming Exercises Elementary.csprojResolveAssemblyReference.cache
+c:\users\alex\documents\visual studio 2017\Projects\Programming Exercises Elementary\Programming Exercises Elementary\obj\Debug\Programming Exercises Elementary.exe
+c:\users\alex\documents\visual studio 2017\Projects\Programming Exercises Elementary\Programming Exercises Elementary\obj\Debug\Programming Exercises Elementary.pdb
