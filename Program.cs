@@ -97,7 +97,7 @@ namespace Programming_Exercises_Elementary
             //        }
             //    }
 
-            ////Write a program that prints all prime numbers. (Note: if your programming language does not support arbitrary size numbers, printing all primes up to the largest number you can easily represent is fine too.)
+            ////8 - Write a program that prints all prime numbers. (Note: if your programming language does not support arbitrary size numbers, printing all primes up to the largest number you can easily represent is fine too.)
             //for (int i = 1; i < 100; i++)
             //{
             //    if (i%2 != 0 && i%i == 0 || i == 2)
@@ -107,7 +107,7 @@ namespace Programming_Exercises_Elementary
 
             //}
 
-            //Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. I counts only as one try if they input the same number multiple times consecutively.
+            //9 - Write a guessing game where the user has to guess a secret number. After every guess the program tells the user whether their number was too large or too small. At the end the number of tries needed should be printed. I counts only as one try if they input the same number multiple times consecutively.
         //    Random random = new Random();
         //    int secretNumber = random.Next(10);
 
@@ -128,6 +128,89 @@ namespace Programming_Exercises_Elementary
         //    Console.WriteLine("You've guessed the number!");
         //    Console.WriteLine("You've tried {0} times",triesList.Distinct().Count());
         //}
+             //10 - Write a program that prints the next 20 leap years.
+            //for (int year = 2017; year < 2097; year++)
+            //{
+            //    if (year%4 !=0)
+            //        continue;
+            //    else if (year%100 != 0)
+            //        Console.WriteLine(year);
+            //    else if (year%400 != 0)
+            //        continue;
+            //    else
+            //        Console.WriteLine(year);
+            //}
+
+            // Strings & Lists
+
+            // 1 - Write a function that returns the largest element in a list.
+            //var stringList = new List<string> { "cat", "cute", "pinino" };
+            //var longestString = "";
+            //var orderedStringList = new List<string>();
+            //for (int i = 0; i < stringList.Count(); i++)
+            //{
+            //    if (stringList[i].Length > longestString.Length)
+            //        longestString = stringList[i];
+            //}
+            //Console.WriteLine(longestString);
+
+
+            //// 2 - Write function that reverses a list, preferably in place.
+            //var stringList = new List<string> { "cat", "cute", "pinino" };
+            //stringList.Reverse();
+            //foreach (var reverseWord in stringList)
+            //{
+            //    Console.WriteLine(reverseWord);
+            //}
+
+
+            // 3 - Write a function that checks whether an element occurs in a list.
+            //var stringList = new List<string> { "cat", "cute", "pinino" };
+            //Console.WriteLine(stringList.Contains("cat"));
+            //Must check if logic is good
+
+            // 4 - Write a function that returns the elements on odd positions in a list.
+            //var stringList = new List<string> { "cat", "cute", "pinino", "element", "elementz", "moar elementz"};
+            //for (int i = 0; i < stringList.Count; i++)
+            //{
+            //    if (i % 2 != 0 && i % i == 0)
+            //        Console.WriteLine(stringList[i]);
+            //    else
+            //        continue;                
+            //}
+
+            //5 - Write a function that computes the running total of a list.
+            //var numberList = new List<int> {20,30,50};
+            //Console.WriteLine("Total sum of the numbers in the list is {0}", numberList.Sum());
+
+            ////6 - Write a function that tests whether a string is a palindrome.
+            //var stringToCompare = "gato";
+            //if (stringToCompare == ReverseString(stringToCompare))
+            //    Console.WriteLine("This string is a Palindrome");
+            //else if (stringToCompare != ReverseString(stringToCompare))
+            //    Console.WriteLine("This string is not a Palindrome");
+            //else
+            //{
+            //    Console.WriteLine("Damn son, where did you find this?");
+
+            //}
+
+            //7 - Write three functions that compute the sum of the numbers in a list: using a for-loop, a while-loop and recursion. 
+            //(Subject to availability of these constructs in your language of choice.)
+            //var numberList = new List<int> {10, 20, 30};
+            //var numberListTotal = 0;
+            //var i = 0;
+            //for (i = 0; i < numberList.Count; i++)
+            //    numberListTotal += numberList[i];
+
+            //Console.WriteLine(numberListTotal);
+
+            //while (i<numberList.Count)
+            //{
+            //    numberListTotal += numberList[i];
+            //    i++;
+            //}
+            //Console.WriteLine(numberListTotal);
         }
     }
 
