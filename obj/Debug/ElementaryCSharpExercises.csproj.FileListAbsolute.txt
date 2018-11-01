@@ -1,0 +1,7 @@
+c:\users\alex\documents\visual studio 2015\Projects\ElementaryCSharpExercises\ElementaryCSharpExercises\bin\Debug\ElementaryCSharpExercises.exe.config
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ElementaryCSharpExercises\ElementaryCSharpExercises\bin\Debug\ElementaryCSharpExercises.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ElementaryCSharpExercises\ElementaryCSharpExercises\bin\Debug\ElementaryCSharpExercises.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ElementaryCSharpExercises\ElementaryCSharpExercises\obj\Debug\ElementaryCSharpExercises.csprojResolveAssemblyReference.cache
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ElementaryCSharpExercises\ElementaryCSharpExercises\obj\Debug\ElementaryCSharpExercises.exe
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ElementaryCSharpExercises\ElementaryCSharpExercises\obj\Debug\ElementaryCSharpExercises.pdb
+C:\Users\Alex\Documents\Visual Studio 2015\Projects\ElementaryCSharpExercises\ElementaryCSharpExercises\obj\Debug\ElementaryCSharpExercises.csproj.CoreCompileInputs.cache
